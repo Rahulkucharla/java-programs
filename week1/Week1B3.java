@@ -7,7 +7,7 @@ class Week1B3 {
          int n=sc.nextInt();
          for(i=0;i<n;i++)
          {
-         System.out.print(fib1(i)+" ");
+         System.out.print(fib1(i)+"  ");
          }
   }
   public  static int  fib1(int a)

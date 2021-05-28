@@ -4,6 +4,6 @@ class Week1A1 {
     String a,b;
         a=args[0];
         b=args[1];
-        System.out.println(a+" and "+b);
+        System.out.println(a+"  and  "+b);
   }
 }

@@ -4,6 +4,6 @@ class Week1B1 {
     Scanner sc=new Scanner(System.in);
     String a=sc.next();
     String b=sc.next();
-    System.out.println(a+" and "+b);
+    System.out.println(a+"  and  "+b);
   }
 }

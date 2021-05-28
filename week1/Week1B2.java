@@ -16,6 +16,6 @@ class Week1B2 {
          {
              h=h+12;
          }
-         System.out.println(h+":"+m+":"+s);
+         System.out.println(h+" : "+m+" : "+s);
   }
 }
